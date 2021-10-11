@@ -1,0 +1,23 @@
+{
+  "name": "connect-symbl-to-zoom-without-ui",
+  "version": "1.0.0",
+  "description": "Connect to Zoom using Symbl's Javascript SDK",
+  "main": "index.js",
+  "dependencies": {
+    "symbl-node": "^1.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symblai/connect-symbl-to-zoom-without-ui.git"
+  },
+  "author": "Adam Voliva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/symblai/connect-symbl-to-zoom-without-ui/issues"
+  },
+  "homepage": "https://github.com/symblai/connect-symbl-to-zoom-without-ui#readme"
+}
